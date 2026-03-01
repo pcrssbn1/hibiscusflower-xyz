@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hibiscusflower.xyz/sitemap.xml
